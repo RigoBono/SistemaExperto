@@ -1,4 +1,4 @@
-
+%Sistema Experto parte prolog
 :-dynamic hospital/1.
 :-dynamic ingred/2.
 :-dynamic bueno_contra/2.
